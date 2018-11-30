@@ -1,0 +1,2 @@
+# JavaScriptHajoitukset
+JavaScript harjoitteita.
